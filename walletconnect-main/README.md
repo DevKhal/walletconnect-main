@@ -1,1 +1,1 @@
-# walletconnect# walletconnect-main
+# walletconnect-main
